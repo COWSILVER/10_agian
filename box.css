@@ -1,0 +1,10 @@
+.img_border{
+    width: 1000px;
+    height: 700px;
+    margin: 0;
+    border: 0.1px solid;
+    border-image-source: url(%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C-1.jpg);
+    border-image-slice:500;
+    border-image-width:400px;
+    border-image-repeat: space;
+}

@@ -1,0 +1,122 @@
+
+
+@font-face {
+    font-family:Jalnan;
+    src: url('Jalnan.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:Cafe24Ohsquare;
+    src: url('font/Cafe24Ohsquare.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: crimson;
+}
+
+a:hover{
+    color: aqua;
+}
+
+a:target{
+    background-color: crimson;
+    color: aqua;
+}
+nav ul{
+    list-style-type: none;
+    width: 90%;
+     text-decoration: none;
+     text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+section{
+    width: 1000px;
+    height: 400px;
+    background-color:#ffffff
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+   
+}
+
+}
+body{
+   background-color: white;
+    width: 70%;
+    margin-right: auto; 
+    border-top:none;
+    margin-left: auto; 
+    padding: 10px;
+    font-size: medium;
+} 
+
+h1{
+    background-color: white;
+}
+body{
+    background-color:saddlebrown;
+    font-size: 40px;
+    font-style: normal;
+    font-family: Jalnan;
+    margin: 300 500 20 300;
+}
+
+dummy{
+    width: 20px;
+    height: 100px;
+    background-color:white;
+    margin:100px
+    
+}
+
+.x-large{
+    font-family:BlackHanSans-Regular;
+    font-size: xx-large;
+    text-decoration-line: underline;
+    text-decoration:
+}
+
+footer{ 
+    width:1000px; 
+    margin-right: auto; 
+    margin-left: auto; 
+    padding:10px; 
+    background-color:sandybrown;
+    color:white; 
+    text-align:center;
+    font-size: 15px;
+    font-family: sans-serif;}
+
+
+.img_border{
+    width: 1000px;
+    height: 700px;
+    margin: 0;
+    border: 0.1px solid;
+    border-image-source: url(%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C-1.jpg);
+    border-image-slice:500;
+    border-image-width:400px;
+    border-image-repeat: space;
+}
+
+center{
+    background-color: white;
+    width: 1000px;
+    vertical-align: center;
+    margin-left: 100px;
+}

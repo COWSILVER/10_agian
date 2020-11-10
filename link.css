@@ -1,0 +1,35 @@
+@font-face {
+    font-family:Jalnan;
+    src: url('Jalnan.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    background-color:;
+    font-size: 40px;
+    font-style: normal;
+    font-family: Jalnan;
+    }
+
+.original{
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid #111111;
+}
+
+.new{
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+table1{
+    width: auto;
+    border: 1px solid;
+    
+}
